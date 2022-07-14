@@ -1,0 +1,1 @@
+# Typescript-sequelize-test
